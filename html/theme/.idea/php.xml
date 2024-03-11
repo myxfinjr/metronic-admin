@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MessDetectorOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCSFixerOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCodeSnifferOptionsConfiguration">
+    <option name="highlightLevel" value="WARNING" />
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="E:/xampp/htdocs/myxfin_st/vendor/setasign/fpdi" />
+      <path value="E:/xampp/htdocs/myxfin_st/vendor/myclabs/deep-copy" />
+      <path value="E:/xampp/htdocs/myxfin_st/vendor/psr/log" />
+      <path value="E:/xampp/htdocs/myxfin_st/vendor/phpmailer/phpmailer" />
+      <path value="E:/xampp/htdocs/myxfin_st/vendor/mpdf/mpdf" />
+      <path value="E:/xampp/htdocs/myxfin_st/vendor/composer" />
+      <path value="E:/xampp/htdocs/myxfin_st/vendor/paragonie/random_compat" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="5.5.0">
+    <option name="suggestChangeDefaultLanguageLevel" value="false" />
+  </component>
+  <component name="PhpStanOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PsalmOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+</project>

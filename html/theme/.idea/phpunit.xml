@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PHPUnit">
+    <option name="directories">
+      <list>
+        <option value="E:/xampp/htdocs/myxfin_st/vendor2/markbaker/complex/tests" />
+        <option value="E:/xampp/htdocs/myxfin_st/vendor2/maennchen/zipstream-php/tests" />
+        <option value="E:/xampp/htdocs/myxfin_st/vendor2/markbaker/matrix/tests" />
+        <option value="E:/xampp/htdocs/myxfin_st/vendor2/phpoffice/phpspreadsheet/tests" />
+        <option value="E:/xampp/htdocs/myxfin_st/vendor2/myclabs/php-enum/tests" />
+      </list>
+    </option>
+  </component>
+</project>
